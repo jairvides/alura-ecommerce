@@ -8,12 +8,12 @@ Este Proyecto del E-commerce AluraGreek nos permite gestionar nuestros productos
 
 ---
 
-![presentacion](https://i.imgur.com/x35KWVo.png)
+
 
 ### Datos para iniciar sesion:
 
-Correo: Kelvin@gmail.com \
-Contraseña: Admin123
+Correo: alura@email.com \
+Contraseña: Alura
 
 ## [Ver Pagina](https://jairvides.github.io/alura-ecommerce) 👈
 
@@ -40,3 +40,12 @@ Tambien contiene modal para realizar las eliminaciones y actualizaciones de los 
 Y si deseas realizar una busqueda rapida de los productos tienes un Search:
 
 ![search](https://i.imgur.com/Yi2jXZS.png)
+
+### Cómo Visualizar las imágenes
+1. Bajar el repositorio como .zip o clonarlo
+2. Dentro de la carpeta raíz del repositorio: \
+    a. Abrir powershell: (mantener la tecla shift sotenida y dar click derecho, de las opciones del menú contextual seleccione Abrir la ventana de powershell aquí.)
+3. Digitar la siguiente líneas de comando: \
+    a. npm init \
+    b. npm install -g json-server (instalar json-server) \
+    c. json-server --watch db.json (ejecutar json-server)
