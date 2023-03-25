@@ -46,6 +46,6 @@ Y si deseas realizar una busqueda rapida de los productos tienes un Search:
 2. Dentro de la carpeta raíz del repositorio: \
     a. Abrir powershell: (mantener la tecla shift sotenida y dar click derecho, de las opciones del menú contextual seleccione Abrir la ventana de powershell aquí.)
 3. Digitar la siguiente líneas de comando: \
-    a. npm init \
+    a. npm install \
     b. npm install -g json-server (instalar json-server) \
     c. json-server --watch db.json (ejecutar json-server)
