@@ -61,10 +61,26 @@ const authenticationLoginPage = () => {
   }
 };
 
+const logout = () => {
+  const newUserAuth = { ...userAuth };
+  newUserAuth.auth = false;
+  sessionStorage.setItem("auth", JSON.stringify(newUserAuth));
+  window.location.reload();
+};
+
+window.onload = function() {
+  const logoutButton = document.querySelector('#logout-btn');
+  if (logoutButton) {
+    logoutButton.addEventListener('click', logout);
+  }
+}
+
+
 export {
   authenticationAdminPage,
   authenticationLoginPage,
   authenticationInit,
   authentication,
   authenticationPerfilPage,
+  logout,
 };
