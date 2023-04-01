@@ -20,7 +20,8 @@
 }
 .main__section-starwars,
 .main__section-consoles,
-.main__section-various {
+.main__section-various,
+.main__section-tecnologia {
   padding: 2.8rem;
 }
 
