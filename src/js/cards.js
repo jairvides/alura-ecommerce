@@ -38,6 +38,10 @@ const createCards = (data, typeProduct) => {
       typeProductIndex = 2;
       break;
 
+    case "Tecnologia":
+      typeProductIndex = 3;
+      break;
+
     case "All":
       typeProductIndex = 0;
       break;

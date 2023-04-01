@@ -135,11 +135,59 @@
       "id": "18",
       "categoria": "Diversos",
       "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Equipo de Oficina",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/g766de20e8b723c7986ef213c0862eefba5aef61587ee18b07f4f042d568928e32b0277af3710f5ad79356f6523d8c7a007c2222d6941cadc402aba5656a3259912ea7f774850cc1ce2b4400c1474b435_640.jpg",
+      "id": "19",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Imac + Ipad",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/g264edcebe5f035c856b444f857aaff71012d1635cce2bde6d261f86917c1932d008fd38bc9f6a9c8a19b81a277f16b13b569c5f5b79dfa031fcf5c18609ac5c33ffeaa17e96957e0964c8a498d93ea30_640.jpg",
+      "id": "20",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Mini Impresora + Mini Papel",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/g5ea9dfa3b95b5033ccf491b5e144a962a6581677d2a15cb8f06487aa1848dc64be63fded48b403f34e30e969230649cb941951028609dd7d01275b168990715f646e0598677886a9a251516deb40f83d_640.jpg",
+      "id": "21",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Celular + Smart Watch",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/gf072d43e1dd5fb015fac8ef8e8fc596248a891fcf97ca04d0e37802d5e0a2370d7962e3934da8ba9fc27d806f0d343b0c7666d2f815737dd545fb8052d189e18336385fe618ba55a6eacc283c84ebcc3_640.jpg",
+      "id": "22",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Macbook + Celular Android",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/gbc2e4c47e07e60a470af450db96cdd132559a0e9e507ac33c7f2d12be8ce0f9415726d24f736bd49edea53652a7021b8988b17644e1711f824d1db607b0a788dc18f10d49c4c7e417acd9919cdd3ce9d_640.jpg",
+      "id": "23",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Combo Paneles Solares X 3",
+      "precio": "6000",
+      "imagen": "https://pixabay.com/get/gcb2d07b4160bf0e7445f42ade02c423240306daf766180174153e2fa9e03d0e727715a6a06b2d5822c99af893ebb20664cc477f0a7b11c405c743c1a61b7c1a7e441ce58f8654cf05abf5ab3005c62a8_640.jpg",
+      "id": "24",
+      "categoria": "Tecnologia",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
     }
   ],
   "perfil": [
     {
-      "email": "email@email.com",
+      "email": "alura@email.com",
       "password": "Alura"
     }
   ]

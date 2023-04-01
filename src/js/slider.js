@@ -29,8 +29,8 @@ const buttons = [
 const hrefs = [
   "#consoles",
   "#starwars",
-  "#consoles",
-  "#diversos"
+  "#diversos",
+  "#tecnologia"
 ]
 
 let currentIndex = 0;

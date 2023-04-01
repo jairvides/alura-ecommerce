@@ -20,7 +20,7 @@ if (
   /E-commerce-AluraGreek\/index.html/g.test(pathName) ||
   /index.html/g.test(pathName)
 ) {
-  getDataProduct(["StarWars", "Consolas", "Diversos"]);
+  getDataProduct(["StarWars", "Consolas", "Diversos", "Tecnologia"]);
   searchInit(false);
   seeMorePageInit();
   authenticationPerfilPage();
